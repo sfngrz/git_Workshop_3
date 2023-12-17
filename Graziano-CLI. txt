@@ -1,3 +1,6 @@
 
 1. To ensure responsiveness, I will use media queries to adjust the layout and styling based on different screen sizes.
 2. By applying percentage-based widths and flexible layout techniques, I can make the HTML elements adapt to various screen dimensions.
+
+2. Implementing a mobile-first approach, I will prioritize the styling for smaller screens and then enhance it for larger devices using media queries.
+3. I will utilize CSS flexbox and grid layout to create a fluid and responsive design that seamlessly adjusts to the user's viewport size.
